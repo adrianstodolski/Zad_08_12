@@ -1,0 +1,24 @@
+zad1
+Napisz klasê U³amek, która przechowuje u³amki postaci ab.
+ Klasa przechowuje dwa pola: licznik i mianownik. Napisz metody:
+skroc(), skraca u³amek, wymaga obliczenia najwiêkszego wspólnego dzielnika
+        import math i u¿yj math.gcd(a,b)-> to znajduje najwiêkszy wspólny dzielnik  
+dodaj()
+odejmij()
+mnoz()
+dziel()
+Zad2
+Utwórz klasê która bêdzie przyjmowa³a d³ugoœci boków prostok¹ta, ma ona obliczaæ 
+pole i obwód figury. Napisz klasê kwadrat która bêdzie dziedziczy³a z klasy 
+prostok¹t a dodatkowo bêdzie mia³a metodê informuj¹c¹ u¿ytkownika czy jest to kwadrat czy prostok¹t
+
+zad3
+
+Stwórz klasê Zwierzêta, która bêdzie przyjmowaæ wiek, wagê i imiê zwierzêcia.
+Klasa powinna mieæ dwie metody przedstaw siê i urodziny. Metoda przedstaw siê 
+wypisze dane o zwi¹¿ecie. Metoda urodziny zwiêkszy wiek zwierzêcia o 1.
+Stwórz klasy S³oñ, Lew, Papuga, wszystkie te klasy maj¹ dziedziczyæ z Zwierzêta.
+Lew ma przy przedstawianiu siê dodatkowo informowaæ, ¿e jest lwem. Papuga ma 
+przyjmowaæ dodatkow¹ informacj¹ o swoim kolorze i zwracaæ t¹ informacjê w 
+metodzie przedstaw siê.
+
